@@ -8,4 +8,4 @@ Sistem Informasi
 Pemrograman Perangkat Bergerak
 
 ## Dosen pengampu
-Kamal Prihandani, M.KOM
+Kamal Prihandani, M.KOM.
